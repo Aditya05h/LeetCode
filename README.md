@@ -1,4 +1,4 @@
-![Glitched Neon Brain Maze](./assets/leetcode-banner.webp)
+![Glitched Neon Brain Maze](./assets/leetcode-banner-rounded.svg)
 
 # LeetCode — Learning to Think in Code
 
