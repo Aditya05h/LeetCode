@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="Glitched Neon Brain Maze" src="https://github.com/user-attachments/assets/38399633-18a9-4775-b158-9474d30b3a55" />
+![Glitched Neon Brain Maze](./assets/leetcode-banner.webp)
 
 # LeetCode — Learning to Think in Code
 
