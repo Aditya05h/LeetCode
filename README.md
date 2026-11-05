@@ -51,3 +51,15 @@ while (!masteredDSA) {
 ```
 
 Still learning. Still coding. Still occasionally losing 20 minutes to one missing semicolon.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya05h/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya05h/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+<!---LeetCode Topics End-->
