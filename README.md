@@ -62,4 +62,12 @@ Still learning. Still coding. Still occasionally losing 20 minutes to one missin
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya05h/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Aditya05h/LeetCode/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Aditya05h/LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
